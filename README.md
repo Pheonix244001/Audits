@@ -12,3 +12,6 @@
 5. The Graph
 6. PopCorn DAO
 7. Frax Finance
+
+## Private
+1. ebisu-vaults 
