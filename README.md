@@ -13,5 +13,3 @@
 6. PopCorn DAO
 7. Frax Finance
 
-## Private
-1. ebisu-vaults 
