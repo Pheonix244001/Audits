@@ -3,6 +3,7 @@
 ## QuillAudits
 1. D8x
 2. AmphorAsync
+3. Nfts2Me
 
 ## Code4rena
 1. Canto Application Specific Dollars and Bonding Curves for 1155s
