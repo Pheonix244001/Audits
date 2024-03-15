@@ -14,3 +14,6 @@
 6. PopCorn DAO
 7. Frax Finance
 
+## Shadow 
+1. TrustSwap Team Finance Token Locking
+
