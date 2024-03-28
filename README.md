@@ -4,6 +4,8 @@
 1. D8x
 2. AmphorAsync
 3. Nfts2Me
+4. Velar Token
+5. Velar Vesting Contract
 
 ## Code4rena
 1. Canto Application Specific Dollars and Bonding Curves for 1155s
@@ -16,4 +18,5 @@
 
 ## Shadow 
 1. TrustSwap Team Finance Token Locking
+2. Cario Finance
 
