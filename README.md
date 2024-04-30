@@ -6,6 +6,9 @@
 3. Nfts2Me
 4. Velar Token
 5. Velar Vesting Contract
+6. Astra DAO LaunchPad
+7. FireLaunch Initial Assesment 
+8. On chain analysis 
 
 ## Code4rena
 1. Canto Application Specific Dollars and Bonding Curves for 1155s
