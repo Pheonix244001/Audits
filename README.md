@@ -7,19 +7,16 @@
 4. Velar Token
 5. Velar Vesting Contract
 6. Astra DAO LaunchPad
-7. FireLaunch Initial Assesment 
-8. On chain analysis 
+7. FireLaunch Initial Assesment (Zeta Chain)
+8. On chain analysis
+9. EVM.Ink
+10. FooDriver
+11. Alvara Avax
+12. Taiko
+13. Gangster Arena
+14. Palcoin
+15. Nitro Dome
+16. BabyDoge
 
-## Code4rena
-1. Canto Application Specific Dollars and Bonding Curves for 1155s
-2. Wenwin
-3. Holograph
-4. Blur
-5. The Graph
-6. PopCorn DAO
-7. Frax Finance
 
-## Shadow 
-1. TrustSwap Team Finance Token Locking
-2. Cario Finance
 
