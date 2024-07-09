@@ -26,7 +26,7 @@
 |  20  |  [BabyDoge](https://github.com/Quillhash/QuillAudit_Reports/blob/master/BabyDoge_Deflationary_Swap%2C_MultiToken_Burn_Smart_Contract_Audit.pdf)|        
 |  21  |  Dega(Yet to be Published)|
 |  22  |  AntiGravity(Yet to be published)|
-
+|  23  |  ISPZ(Ongoing)|
 
 
 
