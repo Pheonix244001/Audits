@@ -27,6 +27,7 @@
 |  21  |  Dega(Yet to be Published)|
 |  22  |  [AntiGravity](https://github.com/Quillhash/QuillAudit_Reports/blob/master/AntiGravity%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)|
 |  23  |  ISPZ(Ongoing)|
+|  24  |  ERUSD(Ongoing)|
 
 
 
