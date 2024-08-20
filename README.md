@@ -28,7 +28,9 @@
 |  22  |  [AntiGravity](https://github.com/Quillhash/QuillAudit_Reports/blob/master/AntiGravity%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)|
 |  23  |  Paza Bonding Curve (Reporting)|
 |  24  |  ERUSD StableCoin(To be published)|
-|  25  |  Jio( Ongoing ) |
+|  25  |  Jio(To be published) |
+|  26  |  Slash Vision Labs (Ongoing) |
+| 27   |  Infinityness (Ongoing)|
 
 
 
