@@ -26,7 +26,7 @@
 |  20  |  [BabyDoge](https://github.com/Quillhash/QuillAudit_Reports/blob/master/BabyDoge_Deflationary_Swap%2C_MultiToken_Burn_Smart_Contract_Audit.pdf)|        
 |  21  |  Dega(Yet to be Published)|
 |  22  |  [AntiGravity](https://github.com/Quillhash/QuillAudit_Reports/blob/master/AntiGravity%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)|
-|  23  |  Paza Bonding Curve (Reporting)|
+|  23  |  [Paza Bonding Curve](https://github.com/Quillhash/QuillAudit_Reports/blob/master/ISPZ%20-%20Bonding%20Curve%20Audit%20Report%20-%20QuillAudits.pdf)|
 |  24  |  ERUSD StableCoin(To be published)|
 |  25  |  Jio(To be published) |
 |  26  |  Slash Vision Labs (Ongoing) |
