@@ -27,10 +27,10 @@
 |  21  |  Dega(Yet to be Published)|
 |  22  |  [AntiGravity](https://github.com/Quillhash/QuillAudit_Reports/blob/master/AntiGravity%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)|
 |  23  |  [Paza Bonding Curve](https://github.com/Quillhash/QuillAudit_Reports/blob/master/ISPZ%20-%20Bonding%20Curve%20Audit%20Report%20-%20QuillAudits.pdf)|
-|  24  |  ERUSD StableCoin(To be published)|
+|  24  |  [ERUSD StableCoin](https://github.com/Quillhash/QuillAudit_Reports/blob/master/ERUSD%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)|
 |  25  |  Jio(To be published) |
-|  26  |  Slash Vision Labs (Ongoing) |
-| 27   |  Infinityness (Ongoing)|
+|  26  |  [Slash Vision Labs](https://github.com/Quillhash/QuillAudit_Reports/blob/master/SlashVisionLabs%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)|
+|  27  |  [Infinityness](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Headstarter%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)|
 
 
 
