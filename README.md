@@ -42,7 +42,7 @@
 |  2   | USSD  |      |[1](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/500)|
 |  3   | Iron Bank|   |[1](https://github.com/sherlock-audit/2023-05-ironbank-judging/issues/406)|
 |  4   | Zeta Chain| |  3 | |
-|  5   | Cork | To be announced |
+|  5   | Cork | 3 |
 |  6   | Boost | | 3 | | 
 
 
