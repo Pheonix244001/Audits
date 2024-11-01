@@ -61,3 +61,20 @@
 
 ## Check out my blog on: 
 ### 1. [Ethereum Yellow Paper Explained](https://pheonix244001.substack.com/p/ethereum-yellow-paper-explained)
+### 2. [Defusing DeFi Hacks: ERC 7265](https://docs.google.com/document/d/1fr3nUsX43ccfgOahT9f5JK4e11sj0kUDzoIoGfrP2Ls/edit?usp=sharing)
+
+
+## Check out my postmortem reports 
+ 1. [Decoding KyberSwap’s $47M Exploit](https://www.quillaudits.com/blog/hack-analysis/kyberswap-hack)
+ 2. [Decoding Tornado Cash’s $750k Governance Attack](https://docs.google.com/document/d/1X-woUd3fAPnAiLKJgo0_2UTvNsRXj-i427H95duPE1g/edit?usp=sharing)
+ 3. [Decoding Rodeo Finance’s $888k Exploit | QuillAudits](https://docs.google.com/document/d/1m1S8a6ngocsS9QaIPaxjeAYILOZJ-v07OSOEGXKiCDw/edit?usp=sharing)
+ 4. [Decoding Azuki DAO Hack](https://www.quillaudits.com/blog/hack-analysis/azuki-dao-hack)
+ 5. [Decoding Earning Farm’s $528k Exploit](https://www.quillaudits.com/blog/hack-analysis/earning-farm-exploit)
+ 6. [Decoding Hopelend’s $835k Exploit](https://quillaudits.medium.com/decoding-hopelends-835k-exploit-d99814075bf1)
+ 7. [Decoding Magnate Finance’s $6.4 Million Rug Pull](https://www.quillaudits.com/blog/hack-analysis/magnate-finance-rug-pull)
+ 8. [Decoding Ocean BNO’s $500k Exploit](https://docs.google.com/document/d/1n3cK9tgrKeXUNfzksxZxabHQAQ-3z6A5_KzCLp99Q4s/edit?usp=sharing)
+ 9. [Decoding Palmswap’s $900k Exploit](https://www.quillaudits.com/blog/hack-analysis/palmswap-900k-exploit)
+ 10. [Decoding Radiant Capital’s $4.5M Exploit](https://docs.google.com/document/d/1B6HG7IJkHHZasRLNBY-AFe_QpYdYUB1C-CQOQTWDcKw/edit?usp=sharing)
+ 11. [Decoding Stake’s $41 Million Exploit ](https://www.quillaudits.com/blog/hack-analysis/stake-41-million-exploit)
+ 12. [Decoding Stars Arena’s $2.9 Million Exploit](https://docs.google.com/document/d/1ptCoDoK1TfQ9cJqeg28GsClN9oInuhPsJLyY3GSvCjk/edit?usp=sharing)
+ 13. [Decoding TrustPad’s $155k Exploit](https://www.quillaudits.com/blog/hack-analysis/trustpad-exploit)
