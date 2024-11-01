@@ -50,7 +50,10 @@
 | 10   | Blur  | | | | 
 | 11   | Frax  | | | | 
 
-
+## Private Audits
+| S No. | Name | Report|
+|---    |---   |---    | 
+|  1    | Ebisu Vault | [report](https://docs.google.com/document/d/1pWlO-_SC-hWskwsB82K-xYp2jS_qf78lzE-Tlu2rl3I/edit?usp=sharing)|
 
 
 
