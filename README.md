@@ -58,3 +58,6 @@
 
 
 
+
+## Check out my blog on: 
+### 1. [Ethereum Yellow Paper Explained](https://pheonix244001.substack.com/p/ethereum-yellow-paper-explained)
