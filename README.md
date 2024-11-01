@@ -36,19 +36,20 @@
 
 
 ## Contests
-| S No.| Name  | High | Medium | Low  |
-|---	 |---	   |---   |---     |---   |
-|  1   | Zeta Chain| |  3 | |
-|  2   | Cork | [3](https://github.com/sherlock-audit/2024-08-cork-protocol-judging/issues?q=pheonix) |
-|  3   | Boost | | [3](https://github.com/sherlock-audit/2024-06-boost-aa-wallet-judging/issues?q=pheonix) | | 
-|  4   | Canto |      |[1](https://github.com/code-423n4/2023-11-canto-findings/issues/12)|      
-|  5   | USSD  |      |[1](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/500)|
-|  6   | Iron Bank|   |[1](https://github.com/sherlock-audit/2023-05-ironbank-judging/issues/406)|
-|  7   | Wenwin  | | | |
-|  8   | PopCorn | | | | 
-|  9   | Holograph | | | | 
-| 10   | Blur  | | | | 
-| 11   | Frax  | | | | 
+| S No.| Name  | Report |
+|---	 |---	   |---   
+|  1   | Zeta Chain|  Link | 
+|  2   | Cork | [Link](https://github.com/sherlock-audit/2024-08-cork-protocol-judging/issues?q=pheonix) |
+|  3    | Predict.fun|  [Link](https://github.com/sherlock-audit/2024-09-predict-fun-judging/issues/251) | 
+|  4   | Boost |  [Link](https://github.com/sherlock-audit/2024-06-boost-aa-wallet-judging/issues?q=pheonix) | 
+|  5   | Canto |      [Link](https://github.com/code-423n4/2023-11-canto-findings/issues/12)|      
+|  6   | USSD  |      [Link](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/500)|
+|  7   | Iron Bank|  [Link](https://github.com/sherlock-audit/2023-05-ironbank-judging/issues/406)|
+|  8   | Wenwin  | |  
+|  9   | PopCorn | |  
+|  10   | Holograph | |  
+| 11   | Blur  | |   
+| 12   | Frax  | |  
 
 ## Private Audits
 | S No. | Name | Report|
