@@ -78,3 +78,13 @@
  11. [Decoding Stake’s $41 Million Exploit ](https://www.quillaudits.com/blog/hack-analysis/stake-41-million-exploit)
  12. [Decoding Stars Arena’s $2.9 Million Exploit](https://docs.google.com/document/d/1ptCoDoK1TfQ9cJqeg28GsClN9oInuhPsJLyY3GSvCjk/edit?usp=sharing)
  13. [Decoding TrustPad’s $155k Exploit](https://www.quillaudits.com/blog/hack-analysis/trustpad-exploit)
+
+## Repos Created by me 
+1. https://github.com/Quillhash/Zero-Knowledge-Mastery
+2. https://github.com/Quillhash/EVM-Mastery
+
+
+## Check out my audit guidelines on:
+1. Bonding Curve
+2. Crypto Restaking
+3. ERC 4337
