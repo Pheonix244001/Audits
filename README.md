@@ -51,13 +51,6 @@
 | 11   | Blur  | |   
 | 12   | Frax  | |  
 
-## Private Audits
-| S No. | Name | Report|
-|---    |---   |---    | 
-|  1    | Ebisu Vault | [report](https://docs.google.com/document/d/1pWlO-_SC-hWskwsB82K-xYp2jS_qf78lzE-Tlu2rl3I/edit?usp=sharing)|
-
-
-
 
 ## Check out my blog on: 
 ### 1. [Ethereum Yellow Paper Explained](https://pheonix244001.substack.com/p/ethereum-yellow-paper-explained)
