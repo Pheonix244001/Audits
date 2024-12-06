@@ -31,8 +31,10 @@
 |  25  |  Jio(To be published) |
 |  26  |  [Slash Vision Labs](https://github.com/Quillhash/QuillAudit_Reports/blob/master/SlashVisionLabs%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)|
 |  27  |  [Infinityness](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Headstarter%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)|
-|  28  |  Aconomy Staking|
+|  28  |  [Aconomy Staking](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Aconomy%20(StakingYield)%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)|
 |  29  |  Memerocket launcpad | 
+|  30  |  MangaChain |
+|  31  |  CFID Token | 
 
 
 ## Contests
