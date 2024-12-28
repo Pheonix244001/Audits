@@ -35,23 +35,26 @@
 |  29  |  Memerocket launcpad | 
 |  30  |  MangaChain |
 |  31  |  CFID Token | 
+|  32  |  Supra HyperNova|
+|  33  | Wadzchain | 
 
 
 ## Contests
-| S No.| Name  | Report |
-|---	 |---	   |---   
-|  1   | Zeta Chain|  Link | 
-|  2   | Cork | [Link](https://github.com/sherlock-audit/2024-08-cork-protocol-judging/issues?q=pheonix) |
-|  3    | Predict.fun|  [Link](https://github.com/sherlock-audit/2024-09-predict-fun-judging/issues/251) | 
-|  4   | Boost |  [Link](https://github.com/sherlock-audit/2024-06-boost-aa-wallet-judging/issues?q=pheonix) | 
-|  5   | Canto |      [Link](https://github.com/code-423n4/2023-11-canto-findings/issues/12)|      
-|  6   | USSD  |      [Link](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/500)|
-|  7   | Iron Bank|  [Link](https://github.com/sherlock-audit/2023-05-ironbank-judging/issues/406)|
-|  8   | Wenwin  | |  
-|  9   | PopCorn | |  
-|  10   | Holograph | |  
-| 11   | Blur  | |   
-| 12   | Frax  | |  
+| Name | Report| 
+|---	 |---	   |
+| Ethos | 1H |
+| Zeta Chain|  3M | 
+| Cork | 3H |
+| Predict.fun|1M| 
+| Boost | 3M | 
+| Canto | 1M |      
+| USSD  | 1M |
+| Iron Bank|1M|
+| Wenwin  | Gas/Qa |  
+| PopCorn | Gas/Qa |  
+| Holograph | Gas/Qa|  
+| Blur  | Gas/Qa |   
+| Frax  | Gas |  
 
 
 ## Check out my blog on: 
