@@ -37,6 +37,9 @@
 |  31  |  CFID Token | 
 |  32  |  Supra HyperNova|
 |  33  | Wadzchain | 
+|  34  | Beam Router | 
+|  35  | Rumsen | 
+|  36  | Tria | 
 
 
 ## Contests
