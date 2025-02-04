@@ -45,6 +45,7 @@
 ## Contests
 | Name | Report| 
 |---	 |---	   |
+| SecondSwap | 1H |
 | Ethos | 1H |
 | Zeta Chain|  3M | 
 | Cork | 3H |
