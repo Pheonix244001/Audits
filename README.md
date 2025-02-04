@@ -43,6 +43,8 @@
 
 
 ## Contests
+
+Note: All findings can be viewed on : https://audits.sherlock.xyz/watson/Pheonix
 | Name | Report| 
 |---	 |---	   |
 | SecondSwap | 1H |
