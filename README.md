@@ -32,14 +32,15 @@
 |  26  |  [Slash Vision Labs](https://github.com/Quillhash/QuillAudit_Reports/blob/master/SlashVisionLabs%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)|
 |  27  |  [Infinityness](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Headstarter%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)|
 |  28  |  [Aconomy Staking](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Aconomy%20(StakingYield)%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)|
-|  29  |  Memerocket launcpad | 
-|  30  |  MangaChain |
+|  29  |  Memerocket LaunchPad | 
+|  30  |  [MangaChain](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Mangachain%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) |
 |  31  |  CFID Token | 
 |  32  |  Supra HyperNova|
 |  33  | Wadzchain | 
-|  34  | Beam Router | 
+|  34  | [Beam Router](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Beam%20Changes%20Review%20Final%20Audit%20report%20-%20QuillAudits.pdf) | 
 |  35  | Rumsen | 
-|  36  | Tria | 
+|  36  | [Tria](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Tria%20Smart%20Contracts%20Audit%20Report%20-%20QuillAudits.pdf) | 
+|  37  | Zynk Labs |
 
 
 ## Contests
@@ -47,6 +48,7 @@
 Note: All findings can be viewed on : https://audits.sherlock.xyz/watson/Pheonix
 | Name | Report| 
 |---	 |---	   |
+| Gamma | Upcoming |
 | SecondSwap | 1H |
 | Ethos | 1H |
 | Zeta Chain|  3M | 
