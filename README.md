@@ -41,6 +41,8 @@
 |  35  | Rumsen | 
 |  36  | [Tria](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Tria%20Smart%20Contracts%20Audit%20Report%20-%20QuillAudits.pdf) | 
 |  37  | Zynk Labs |
+|  38  | TMAI |
+|  39  | Spor | 
 
 
 ## Contests
