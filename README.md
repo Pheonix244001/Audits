@@ -43,6 +43,7 @@
 |  37  | [Zynk Labs](https://github.com/Quillhash/QuillAudit_Reports/blob/master/dKloud%20Smart%20Contract%20audit%20Report%20-%20QuillAudits.pdf) |
 |  38  | TMAI |
 |  39  | Spor | 
+|  40  | Fingertips|
 
 
 ## Contests
