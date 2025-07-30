@@ -41,9 +41,30 @@
 |  35  | Rumsen | 
 |  36  | [Tria](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Tria%20Smart%20Contracts%20Audit%20Report%20-%20QuillAudits.pdf) | 
 |  37  | [Zynk Labs](https://github.com/Quillhash/QuillAudit_Reports/blob/master/dKloud%20Smart%20Contract%20audit%20Report%20-%20QuillAudits.pdf) |
-|  38  | TMAI |
-|  39  | Spor | 
-|  40  | Fingertips|
+|  38  | [TMAI](https://github.com/Quillhash/QuillAudit_Reports/blob/master/TMAI%20Smart%20Contract%20Audit%20Reort%20-%20QuillAudits.pdf) | 
+|  39  | [Spor](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Spor%20Smart%20Contract%20Final%20Report%20-%20QuillAudits.pdf) | 
+|  40  | [Fingertips](https://github.com/Quillhash/QuillAudit_Reports/blob/master/FingerTips%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf)|
+|  41  | [Raga Finance](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Raga%20Finance%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) |
+|  42  | [Monwu](https://github.com/Quillhash/QuillAudit_Reports/blob/master/MONWU%20V2%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) | 
+|  43  | [Womofi](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Womo%20FInance%20Smart%20Contracts%20Audit%20Report%20-%20QuillAudit.pdf) | 
+|  44  | [Rumsen](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Gigablocks%20Smart%20Contracts%20Audit%20Report%20-%20QuillAudits.pdf) | 
+|  45  | [BigWater](https://github.com/Quillhash/QuillAudit_Reports/blob/master/BigWater%20Smart%20Contract%20Audit%20report%20-%20QuillAudits.pdf) | 
+|  46  | [PerpX](https://github.com/Quillhash/QuillAudit_Reports/blob/master/PerpX%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) | 
+|  47  | [Magpie](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Magpie%20Fly%20Token%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) | 
+
+
+## Hashlock 
+| S No.| Report| 
+|---   |---    |
+| 1    | [KlimaDAO](https://hashlock.com/wp-content/uploads/2025/04/Klima-Protocol-Smart-Contract-Audit-Report-Final-Report.pdf)|
+| 2    | [Qerra](https://hashlock.com/wp-content/uploads/2025/04/Qerra-Smart-Contract-Audit-Report-Final-Report-v2.pdf) |
+| 3    | [HoneyPot Finance](https://hashlock.com/wp-content/uploads/2024/10/Honeypot-Finance-2nd-Smart-Contract-Audit-Report-Final-Report-v2.pdf) |
+| 4    | [Libertum](https://hashlock.com/wp-content/uploads/2025/05/Libertum-Bonding-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | 
+| 5    | Parasail | 
+| 6    | [YOM](https://hashlock.com/wp-content/uploads/2025/07/YOM-2nd-Smart-Contract-Audit-Report-Final-Report-v1.pdf) |
+| 7    | [Ithaca Agents](https://hashlock.com/wp-content/uploads/2024/10/Ithaca-4th-Smart-Contract-Audit-Report-Final-Report-v2.pdf) |
+| 8    | SilverSwap | 
+
 
 
 ## Contests
