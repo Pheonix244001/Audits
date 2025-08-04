@@ -72,7 +72,7 @@
 Note: All findings can be viewed on : https://audits.sherlock.xyz/watson/Pheonix
 | Name | Report| 
 |---	 |---	   |
-| Gamma | Upcoming |
+| Gamma | 1H |
 | SecondSwap | 1H |
 | Ethos | 1H |
 | Zeta Chain|  3M | 
