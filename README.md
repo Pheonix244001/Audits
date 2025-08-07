@@ -53,18 +53,6 @@
 |  47  | [Magpie](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Magpie%20Fly%20Token%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) | 
 
 
-## Hashlock 
-| S No.| Report| 
-|---   |---    |
-| 1    | [KlimaDAO](https://hashlock.com/wp-content/uploads/2025/04/Klima-Protocol-Smart-Contract-Audit-Report-Final-Report.pdf)|
-| 2    | [Qerra](https://hashlock.com/wp-content/uploads/2025/04/Qerra-Smart-Contract-Audit-Report-Final-Report-v2.pdf) |
-| 3    | [HoneyPot Finance](https://hashlock.com/wp-content/uploads/2024/10/Honeypot-Finance-2nd-Smart-Contract-Audit-Report-Final-Report-v2.pdf) |
-| 4    | [Libertum](https://hashlock.com/wp-content/uploads/2025/05/Libertum-Bonding-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | 
-| 5    | Parasail | 
-| 6    | [YOM](https://hashlock.com/wp-content/uploads/2025/07/YOM-2nd-Smart-Contract-Audit-Report-Final-Report-v1.pdf) |
-| 7    | [Ithaca Agents](https://hashlock.com/wp-content/uploads/2024/10/Ithaca-4th-Smart-Contract-Audit-Report-Final-Report-v2.pdf) |
-| 8    | SilverSwap | 
-
 
 
 ## Contests
