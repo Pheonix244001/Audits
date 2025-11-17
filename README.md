@@ -65,6 +65,9 @@
 | 6    | [YOM](https://hashlock.com/wp-content/uploads/2025/07/YOM-2nd-Smart-Contract-Audit-Report-Final-Report-v1.pdf) |
 | 7    | [Ithaca Agents](https://hashlock.com/wp-content/uploads/2024/10/Ithaca-4th-Smart-Contract-Audit-Report-Final-Report-v2.pdf) |
 | 8    | SilverSwap | 
+| 9    | Hikari Finance | 
+| 10   | Parasail Loan  |
+| 11   | SpiralStake    | 
 
 
 
