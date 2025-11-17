@@ -51,6 +51,14 @@
 |  45  | [BigWater](https://github.com/Quillhash/QuillAudit_Reports/blob/master/BigWater%20Smart%20Contract%20Audit%20report%20-%20QuillAudits.pdf) | 
 |  46  | [PerpX](https://github.com/Quillhash/QuillAudit_Reports/blob/master/PerpX%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) | 
 |  47  | [Magpie](https://github.com/Quillhash/QuillAudit_Reports/blob/master/Magpie%20Fly%20Token%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) | 
+|  50  | Continuum DAO |
+|  51  | Haha wallet   |
+|  52  | Sweet |
+|  53  | Surflayer Router | 
+|  54  | WChain Migration | 
+|  55  | Spor | 
+
+
 
 
 
