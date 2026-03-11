@@ -54,15 +54,19 @@
 |  50  | [Continuum DAO](github.com/Quillhash/QuillAudit_Reports/blob/master/Continuum%20DAO%20Smart%20Contract%20Audit%20report%20-%20QuillAudits.pdf) |
 |  51  | Haha wallet   |
 |  52  | [Sweet](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/Sweet%20Smart%20Contract%20Audit%20report%20-%20QuillAudits.pdf) |
-|  53  | Surflayer Router | 
+|  53  | [Surflayer Router](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/Surflayer%20Smart%20Contract%20Audit%20report%20-%20QuillAudits.pdf)|
 |  54  | WChain Migration | 
 |  55  | [Spor](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/Spor%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) | 
+|  56  | [OneWaveV2](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/OneWave%20V2%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) |
+|  57  | [KINGZ](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/KINGZ%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) |
+|  58  | [DFX](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/Definix%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) |
+|  59  | [WARP Gaming](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/WarpToken%20Smart%20Contract%20Audit%20report%20-%20QuillAudits.pdf) |
 
 
 
-
-
-## Hashlock 
+ 
+ 
+ Hashlock 
 | S No.| Report| 
 |---   |---    |
 | 1    | [KlimaDAO](https://hashlock.com/wp-content/uploads/2025/04/Klima-Protocol-Smart-Contract-Audit-Report-Final-Report.pdf)|
@@ -72,10 +76,10 @@
 | 5    | Parasail | 
 | 6    | [YOM](https://hashlock.com/wp-content/uploads/2025/07/YOM-2nd-Smart-Contract-Audit-Report-Final-Report-v1.pdf) |
 | 7    | [Ithaca Agents](https://hashlock.com/wp-content/uploads/2024/10/Ithaca-4th-Smart-Contract-Audit-Report-Final-Report-v2.pdf) |
-| 8    | SilverSwap | 
-| 9    | Hikari Finance | 
+| 8    | [SilverSwap](https://hashlock.com/wp-content/uploads/2024/09/Silverswap-4th-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | 
+| 9    | [Hikari Finance](https://hashlock.com/wp-content/uploads/2025/10/Hikari-Finance-Smart-Contract-Audit-Report-Final-Report-v4.pdf) | 
 | 10   | Parasail Loan  |
-| 11   | SpiralStake    | 
+| 11   | [SpiralStake](https://hashlock.com/wp-content/uploads/2025/09/SpiralStake-Smart-Contract-Audit-Report-Final-Report-v4.pdf)  | 
 
 
 
