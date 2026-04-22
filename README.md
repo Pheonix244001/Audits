@@ -61,6 +61,8 @@
 |  57  | [KINGZ](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/KINGZ%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) |
 |  58  | [DFX](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/Definix%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) |
 |  59  | [WARP Gaming](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/WarpToken%20Smart%20Contract%20Audit%20report%20-%20QuillAudits.pdf) |
+|  60  | Floors Finance |
+|  61  | BullBit |
 
 
 
